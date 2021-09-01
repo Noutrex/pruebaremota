@@ -1,5 +1,5 @@
 Texto de ejemplo
 Cambio a test.jpg
 
-Otras cosas de test2
-Otras cosas de test
+Otras cosas de test2 y test
+
